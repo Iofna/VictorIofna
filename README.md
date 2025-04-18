@@ -40,7 +40,13 @@ Apaixonado por tecnologia, design e inovação! Trabalho com **Photoshop, AutoCA
 </div>
 
 
+### 📬 Me encontra aqui:
+### 📬 Me encontra aqui:
 
-### **2️⃣ Voce pode me encontrar** 🎨  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548999397911)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor_iofna_caba?igsh=cmpmc3J1bmdobnox)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@victoryofnacaba?_t=ZM-8vclTpnHmYY&_r=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-iofna-caba-a06a832a2)
+  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/seuusuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuusuario)
