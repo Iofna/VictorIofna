@@ -39,8 +39,6 @@ Apaixonado por tecnologia, design e inovação! Trabalho com **Photoshop, AutoCA
   
 </div>
 
-
-### 📬 Me encontra aqui:
 ### 📬 Me encontra aqui:
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548999397911)
